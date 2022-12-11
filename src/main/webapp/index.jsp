@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Mywebapp-project!!</h2>
+<h2>Devops_training!</h2>
 </body>
 </html>
